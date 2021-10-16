@@ -1,0 +1,17 @@
+{
+  "name": "Assignment_4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.0",
+    "pino": "^7.0.2",
+    "standard": "^16.0.4"
+  }
+}
